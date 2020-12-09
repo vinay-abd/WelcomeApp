@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/Hello")
 public class HelloController
 {
-
 	@GetMapping("/welcome")
 	public String welcomeApp()
 	{
