@@ -9,7 +9,4 @@ public class WelcomeAppApplication extends ServletContextApplicationContextIniti
 	public static void main(String[] args) {
 		SpringApplication.run(WelcomeAppApplication.class, args);
 	}
-public static void main(String[] args) {
-		SpringApplication.run(WelcomeAppApplication.class, args);
-	}
 }
